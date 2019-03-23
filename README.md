@@ -52,6 +52,7 @@ General Overview
 - [NLP的巨人肩膀](https://zhuanlan.zhihu.com/p/50443871) (from word2vec to BERT)
 - [The 4 Biggest Open Problems in NLP](http://ruder.io/4-biggest-open-problems-in-nlp/)
 - [NLP Future directions of MSRA](https://www.jiqizhixin.com/articles/2018-11-25)
+- [Text Classification Tricks](https://www.zhihu.com/question/265357659)
 
 
 
