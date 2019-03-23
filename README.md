@@ -6,7 +6,7 @@ Machine Learning
 
 - [Learning From Data](https://github.com/quincyliang/machine-learning-books/blob/master/books/Yaser%20S.%20Abu-Mostafa%2C%20Malik%20Magdon-Ismail%2C%20Hsuan-Tien%20Lin%20-%20Learning%20From%20Data_%20A%20short%20course-AMLBook.com%20(2012).pdf)
 - [The Hundred-Page Machine Learning Book](https://github.com/quincyliang/machine-learning-books/blob/master/books/Andriy%20Burkov%20-%20The%20Hundred-Page%20Machine%20Learning%20Book-Andriy%20Burkov%20(2019).pdf)
-- Pattern Recognition and Machine Learning
+- [Pattern Recognition and Machine Learning](https://github.com/quincyliang/machine-learning-books/blob/master/books/PRML%20.pdf)
 
 Deep Learning
 
@@ -57,7 +57,7 @@ General Overview
 
 Books
 
-- 数学之美
+- [数学之美](https://github.com/quincyliang/machine-learning-books/blob/master/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) 
 
