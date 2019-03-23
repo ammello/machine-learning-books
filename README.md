@@ -43,7 +43,7 @@ Guideline
 
 General Overview
 
-![](/Users/guanqingliang/Documents/git projects/machine-learning-books/nlp.jpg)
+![](https://github.com/quincyliang/machine-learning-books/blob/master/nlp.jpg)
 
 - Advice for beginner ([初入NLP领域的一些小建议](http://www.zhuanzhi.ai/document/c59eb6ae1fed59a237b6c670485b6744))
 - [NLP的巨人肩膀](https://zhuanlan.zhihu.com/p/50443871) (from word2vec to BERT)
