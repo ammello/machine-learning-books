@@ -29,14 +29,35 @@ Programming
 Guideline
 
 - [Machine Learning Yearning](https://github.com/quincyliang/machine-learning-books/blob/master/books/machine-learning-yearning.pdf)
-
 - [Interpretable Machine Learning](https://github.com/quincyliang/machine-learning-books/blob/master/books/interpretable-machine-learning.pdf)
 
-  
+
 
 ## Deep Thoughts
 
 - [The Book of Why](https://github.com/quincyliang/machine-learning-books/blob/master/books/Judea%20Pearl%2C%20Dana%20Mackenzie%20-%20The%20Book%20of%20Why_%20The%20New%20Science%20of%20Cause%20and%20Effect-Basic%20Books%20(2018).pdf)
+
+
+
+## NLP
+
+General Overview
+
+![](/Users/guanqingliang/Documents/git projects/machine-learning-books/nlp.jpg)
+
+- Advice for beginner ([初入NLP领域的一些小建议](http://www.zhuanzhi.ai/document/c59eb6ae1fed59a237b6c670485b6744))
+- [NLP的巨人肩膀](https://zhuanlan.zhihu.com/p/50443871) (from word2vec to BERT)
+- [The 4 Biggest Open Problems in NLP](http://ruder.io/4-biggest-open-problems-in-nlp/)
+- [NLP Future directions of MSRA](https://www.jiqizhixin.com/articles/2018-11-25)
+
+
+
+Books
+
+- [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) 
+
+
 
 
 
