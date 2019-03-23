@@ -6,6 +6,7 @@ Machine Learning
 
 - [Learning From Data](https://github.com/quincyliang/machine-learning-books/blob/master/books/Yaser%20S.%20Abu-Mostafa%2C%20Malik%20Magdon-Ismail%2C%20Hsuan-Tien%20Lin%20-%20Learning%20From%20Data_%20A%20short%20course-AMLBook.com%20(2012).pdf)
 - [The Hundred-Page Machine Learning Book](https://github.com/quincyliang/machine-learning-books/blob/master/books/Andriy%20Burkov%20-%20The%20Hundred-Page%20Machine%20Learning%20Book-Andriy%20Burkov%20(2019).pdf)
+- Pattern Recognition and Machine Learning
 
 Deep Learning
 
@@ -36,6 +37,8 @@ Guideline
 ## Deep Thoughts
 
 - [The Book of Why](https://github.com/quincyliang/machine-learning-books/blob/master/books/Judea%20Pearl%2C%20Dana%20Mackenzie%20-%20The%20Book%20of%20Why_%20The%20New%20Science%20of%20Cause%20and%20Effect-Basic%20Books%20(2018).pdf)
+- [Hinton: GOOGLE’S AI GURU WANTS COMPUTERS TO THINK MORE LIKE BRAINS](https://www.wired.com/story/googles-ai-guru-computers-think-more-like-brains/)
+- [Yoshua Bengio访谈笔记：用意识先验糅合符号主义与联结主义](https://zhuanlan.zhihu.com/p/51138031)
 
 
 
@@ -54,8 +57,11 @@ General Overview
 
 Books
 
+- 数学之美
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) 
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQClzqm+wUeDjB4HqZ/1M+rqaCKel0d/5h2KfI5/AApLw6ivB3pkCXjt9+APe6tNz0rbPLOZxv2exOl/S4aLAi6kN7SoYS3ZP1V8r34tJj6IBMjLLD8wg512SPM+s+PV1TqnbES2LNdvjuc3C65dvRbDtudPFu05Zydsczb4TcU/MGUjYEZrU9tAHkhpvJ0djq90G0D26d81cNslWwzVbDYVooAzMb7ZYFaZuP/X051l4PRhKHthIuqh7qbYAIBTOAbXxKGiylU/1d3Ql/qZCI9JadO8xzW1YmDbPbgVLgvZyhRtzY5xiiejNtX9Ydy30HcjTuERM+6ovenMcTegkpHgoMKXLNFDcS4XR/B7nsYgZn5cRFIZ1MHaKPKIIdGoF2gAbXEnCnUTm46ue2yyRIKxF5+islSO5iANdaaqNkKneD7Ca9YKSodd2ZuGHHZxqJjeE4hHVlWvp0DTymwLQF0Rb2mFvGU9hbPaoMIzBVz7xTI1t6H5bAlAA9YsygIH7u4Nsq25kDu1LadJ3AeiIOTYS/K5FLCMHd4a13Iq40OxJA7d6MbJrEVC+Th4sscQs+HbO7wxxGn1e8OhLjEgFk8BUQBKhLpycJsUlx/7K1C5brnxj6b33UamLK9vABrH9Yj9ey5WcTjHU08Su6ThHIVogTfzmKQu0ahKvSmm2NQT0Q== lguanq@gmail.com
 
 
 
