@@ -61,9 +61,3 @@ Books
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) 
 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQClzqm+wUeDjB4HqZ/1M+rqaCKel0d/5h2KfI5/AApLw6ivB3pkCXjt9+APe6tNz0rbPLOZxv2exOl/S4aLAi6kN7SoYS3ZP1V8r34tJj6IBMjLLD8wg512SPM+s+PV1TqnbES2LNdvjuc3C65dvRbDtudPFu05Zydsczb4TcU/MGUjYEZrU9tAHkhpvJ0djq90G0D26d81cNslWwzVbDYVooAzMb7ZYFaZuP/X051l4PRhKHthIuqh7qbYAIBTOAbXxKGiylU/1d3Ql/qZCI9JadO8xzW1YmDbPbgVLgvZyhRtzY5xiiejNtX9Ydy30HcjTuERM+6ovenMcTegkpHgoMKXLNFDcS4XR/B7nsYgZn5cRFIZ1MHaKPKIIdGoF2gAbXEnCnUTm46ue2yyRIKxF5+islSO5iANdaaqNkKneD7Ca9YKSodd2ZuGHHZxqJjeE4hHVlWvp0DTymwLQF0Rb2mFvGU9hbPaoMIzBVz7xTI1t6H5bAlAA9YsygIH7u4Nsq25kDu1LadJ3AeiIOTYS/K5FLCMHd4a13Iq40OxJA7d6MbJrEVC+Th4sscQs+HbO7wxxGn1e8OhLjEgFk8BUQBKhLpycJsUlx/7K1C5brnxj6b33UamLK9vABrH9Yj9ey5WcTjHU08Su6ThHIVogTfzmKQu0ahKvSmm2NQT0Q== lguanq@gmail.com
-
-
-
-
-
