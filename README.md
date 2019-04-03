@@ -53,12 +53,22 @@ General Overview
 - [The 4 Biggest Open Problems in NLP](http://ruder.io/4-biggest-open-problems-in-nlp/)
 - [NLP Future directions of MSRA](https://www.jiqizhixin.com/articles/2018-11-25)
 - [Text Classification Tricks](https://www.zhihu.com/question/265357659)
+- [NLP progress](https://github.com/sebastianruder/NLP-progress)
+- [Neural Transfer Learning for Natural Language Processing](http://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf) 
+- NLP Courses
 
+  - [CMU: Neural Networks for NLP](http://phontron.com/class/nn4nlp2019/schedule.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter) 
+
+  - [Stanford: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter) 
+
+  - [Berkeley: Applied Natural Language Processing](http://people.ischool.berkeley.edu/~dbamman/info256.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter) 
 
 
 Books
 
 - [数学之美](https://github.com/quincyliang/machine-learning-books/blob/master/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
+
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) 
 
