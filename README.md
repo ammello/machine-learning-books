@@ -72,3 +72,23 @@ Books
 
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) 
 
+
+
+Blogs
+
+- [Google AI](https://ai.googleblog.com/)
+
+- [Facebook AI](https://ai.facebook.com/blog/) 
+
+- [NLP newsletter by Ruder](http://newsletter.ruder.io/)
+
+- [Model visualization by Jay](http://jalammar.github.io/)
+
+- [Deep learning model by Lilian](https://lilianweng.github.io/lil-log/) 
+
+- [Neural network introduction by Colah](http://colah.github.io/)
+
+- [Andrej Karpathy blog](http://karpathy.github.io/)
+
+  
+
