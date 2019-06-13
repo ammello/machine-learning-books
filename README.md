@@ -54,6 +54,7 @@ General Overview
 - [NLP Future directions of MSRA](https://www.jiqizhixin.com/articles/2018-11-25)
 - [Text Classification Tricks](https://www.zhihu.com/question/265357659)
 - [奇点已过？聊聊BERT之后的NLP时代](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653551097&idx=1&sn=c3bf23834e69f069d369f03563b037e2&utm_source=tuicool&utm_medium=referral)
+- [Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772)
 - [NLP progress](https://github.com/sebastianruder/NLP-progress)
 - [Neural Transfer Learning for Natural Language Processing](http://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf) 
 - NLP Courses
